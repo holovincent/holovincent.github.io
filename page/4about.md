@@ -13,7 +13,7 @@ icon: heart
 * [GitHub](https://github.com/holovincent)
 * [Email](chenws0906@gmail.com)
 
-### Update Log
+## Update log
 
 *2016.7.14 v1.0.0*
 
