@@ -6,13 +6,13 @@ categories: Optics
 tags:  Optical-Imaging
 ---
 
-## Review Paper:
+#### Review Paper:
 
-1. [S. A. Boppart, R. Richards-Kortum, Point-of-care and point-of-procedure optical imaging technologies for primary care and global health. Sci. Transl. Med. 6, 253rv2 (2014).](http://stm.sciencemag.org/content/6/253/253rv2)
+* [S. A. Boppart, R. Richards-Kortum, Point-of-care and point-of-procedure optical imaging technologies for primary care and global health. Sci. Transl. Med. 6, 253rv2 (2014).](http://stm.sciencemag.org/content/6/253/253rv2)
 
 > "This paper reviewed the latest development of optical methods for point-of-care and discussed its opportunities and challenges."
 
-## Related products/research
+#### Related products/research
 
 1. LED-based Fluorescence microscope adaptor to bright-field microscope. Foundation for Innovative New Diagnostics. It has done field test in Uganda. Normal version costs around 700-1750 USD, and low-cost, battery-powered version costs around 240usd.
 
