@@ -3,7 +3,7 @@ layout: post
 title:  "Science Perspective: Devices for Low-Resource Health Care"
 date: 2014-12-27
 categories: Optics
-tags:  Optical-imaging Camera Paper
+tags:  Optical-Imaging Camera Paper
 ---
 
 > “In this Perspective, we review the challenges of developing and translating medical technologies and highlight promising new technologies to improve health in low-resource settings.”

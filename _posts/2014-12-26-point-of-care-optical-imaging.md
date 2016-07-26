@@ -3,7 +3,7 @@ layout: post
 title:  "Point-of-care optical imaging technologies"
 date: 2014-12-26
 categories: Optics
-tags:  Optical-imaging
+tags:  Optical-Imaging
 ---
 
 ## Review Paper:

@@ -3,7 +3,7 @@ layout: post
 title:  "Code Complete Notes: Chapter 12"
 date: 2016-07-26
 categories: cpp
-tags:  code-complete
+tags:  Code-Complete
 ---
 
 * content
