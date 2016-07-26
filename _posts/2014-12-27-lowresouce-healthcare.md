@@ -6,6 +6,11 @@ categories: Optics
 tags:  Optical-Imaging Camera Paper
 ---
 
+#### Reference:
+[Richards-Kortum, Rebecca, and Maria Oden. "Devices for low-resource health care." Science 342.6162 (2013): 1055-1057.](http://science.sciencemag.org/content/342/6162/1055)
+
+#### Summary:
+
 > “In this Perspective, we review the challenges of developing and translating medical technologies and highlight promising new technologies to improve health in low-resource settings.”
 
 1. Low-resource settings present challenging design constraints, including inadequate electricity and clean water, limited funding, weak supply chains, lack of trained users, and lack of technology management policies.
