@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Point-of-care optical imaging technologies"
+title:  "Point-of-Care Optical Imaging Technologies"
 date: 2014-12-26
 categories: Optics
 tags:  Optical-Imaging

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Install chrome extension manually"
+title:  "Install Chrome Extension Manually"
 date: 2016-07-15
 categories: Chrome
 tags:  Chrome
