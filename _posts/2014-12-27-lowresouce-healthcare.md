@@ -21,7 +21,7 @@ tags:  Optical-Imaging Camera Paper
 
 4. Here, they highlight successful efforts and remaining barriers for several technologies.
 
-* Laerdal developed NeoNatalie, an electricityfree, low-cost neonatal simulator that mimics chest rise with mechanical ventilation.
-* BD FACSCount is a low-cost flow cytometer, but it requires skilled operators and frequent calibration.
-* The Alere PIMA device uses a fixed-volume, static cytometer and can run on battery or solar power.
-* GeneXpert is used for MTB test.
+	* Laerdal developed NeoNatalie, an electricityfree, low-cost neonatal simulator that mimics chest rise with mechanical ventilation.
+	* BD FACSCount is a low-cost flow cytometer, but it requires skilled operators and frequent calibration.
+	* The Alere PIMA device uses a fixed-volume, static cytometer and can run on battery or solar power.
+	* GeneXpert is used for MTB test.
