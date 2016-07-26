@@ -6,24 +6,20 @@ categories: Optics
 tags:  Optical-Imaging
 ---
 
-## DH + binary sensor:
+## Digital Holography + Binary Sensor:
 
-1. Nitesh Pandey and Bryan Hennelly, “Quantization noise and its reduction in lensless Fourier digital holography,” Appl. Opt.50, B58-B70 (2011)
+* [Nitesh Pandey and Bryan Hennelly, “Quantization noise and its reduction in lensless Fourier digital holography,” Appl. Opt.50, B58-B70 (2011).](https://www.osapublishing.org/abstract.cfm?uri=ao-50-7-B58)
+* [Ryoichi Horisaki and Tatsuki Tahara, “Phase-shift binary digital holography,” Opt. Lett. 39, 6375-6378 (2014).](https://www.osapublishing.org/abstract.cfm?uri=ol-39-22-6375)
 
-2. Ryoichi Horisaki and Tatsuki Tahara, “Phase-shift binary digital holography,” Opt. Lett. 39, 6375-6378 (2014)
+## General Imaging + Binary Sensor:
 
-Imaging + binary sensor:
+* [Aurélien Bourquard, François Aguet, and Michael Unser, “Optical imaging using binary sensors,” Opt. Express 18, 4876-4888 (2010).](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-18-5-4876)
+* [F. Yang, Y. M. Lu, L. Sbaiz, and M. Vetterli, “Bits From Photons: Oversampled Image Acquisition Using Binary Poisson Statistics,”  Image Process. IEEE Trans. 21, 1421 (2012).](ieeexplore.ieee.org/iel5/83/4358840/06104150.pdf?arnumber=6104150)
 
-3. Aurélien Bourquard, François Aguet, and Michael Unser, “Optical imaging using binary sensors,” Opt. Express 18, 4876-4888 (2010).
+## Digital Holography + Single Pixel Detector + Compressive Sensing:
 
-Summary: optical imaging with binary sensor using compressive sensing
+* [Pere Clemente, Vicente Durán, Enrique Tajahuerce, Pedro Andrés, Vicent Climent, and Jesús Lancis, “Compressive holography with a single-pixel detector,” Opt. Lett. 38, 2524-2527 (2013).](https://www.osapublishing.org/abstract.cfm?uri=ol-38-14-2524)
 
-4. F. Yang, Y. M. Lu, L. Sbaiz, and M. Vetterli, “Bits From Photons: Oversampled Image Acquisition Using Binary Poisson Statistics,”  Image Process. IEEE Trans. 21, 1421 (2012).
+## Possible Further Extension:
 
-## DH + single pixel detector + CS:
-
-1. Pere Clemente, Vicente Durán, Enrique Tajahuerce, Pedro Andrés, Vicent Climent, and Jesús Lancis, “Compressive holography with a single-pixel detector,” Opt. Lett. 38, 2524-2527 (2013)
-
-## Further extension:
-
-1. DH + binary sensor + compressed sensing
+* DH + Binary Sensor + Compressive Sensing
