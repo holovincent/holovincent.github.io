@@ -10,7 +10,7 @@ tags:  Optical-Imaging
 
 1. [S. A. Boppart, R. Richards-Kortum, Point-of-care and point-of-procedure optical imaging technologies for primary care and global health. Sci. Transl. Med. 6, 253rv2 (2014).](http://stm.sciencemag.org/content/6/253/253rv2)
 
-> This paper reviewed the latest development of optical methods for point-of-care and discussed its opportunities and challenges.
+> "This paper reviewed the latest development of optical methods for point-of-care and discussed its opportunities and challenges."
 
 ## Related products/research
 
