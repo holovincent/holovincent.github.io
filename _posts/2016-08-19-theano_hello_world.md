@@ -22,16 +22,13 @@ tags:  machine-learning, deep-learning, theano
 ### 过程
 
 1. 在Anaconda中新建一个python3.4的enviroment命名为py34， 激活py34
-
 ```
 C: Anaconda3
 > conda create --name py34 python=3.4 anaconda
 > conda info -e
 > activate py34
 ```
-
 2. 在py34里安装theano的dependences mingw和libpython（可能已经装好）
-
 ```
 > conda install mingw libpython
 > pip install Theano
