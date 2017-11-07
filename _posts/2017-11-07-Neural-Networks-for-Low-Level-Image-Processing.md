@@ -4,6 +4,8 @@ Until recently, machine learning (ML) or neural networks (NN) are mainly used in
 
 This is a personal collection of works using neural networks for low level image processing. The list will be regularly updated. You are welcome to contribute. Papers of significance are marked in **bold**. My comments are marked in *italic*.
 
+For a up-to-date list, please follow this [github repository](https://github.com/holovincent/Neural-Networks-for-Low-Level-Image-Processing). 
+
 ## Table of Contents
 
   * [Review and comments](#review-and-comments)
